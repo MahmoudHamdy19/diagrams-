@@ -1002,7 +1002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Class Diagram" id="class_diagram_erd">
-    <mxGraphModel dx="540" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="378" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1508,12 +1508,12 @@
         </mxCell>
         <mxCell id="EL_8_src" connectable="0" parent="E_8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="1" vertex="1">
           <mxGeometry relative="1" x="-0.85" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EL_8_tgt" connectable="0" parent="E_8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EL_8_name" connectable="0" parent="E_8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="are allowed" vertex="1">
@@ -1550,12 +1550,12 @@
         </mxCell>
         <mxCell id="EL_10_src" connectable="0" parent="E_10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="1" vertex="1">
           <mxGeometry relative="1" x="-0.85" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-80" y="-62" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EL_10_tgt" connectable="0" parent="E_10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-130" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EL_10_name" connectable="0" parent="E_10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" value="are reported" vertex="1">
