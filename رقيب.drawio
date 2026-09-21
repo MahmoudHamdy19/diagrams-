@@ -193,7 +193,7 @@
         <mxCell id="U7_2" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Edit Profile" vertex="1">
           <mxGeometry height="40" width="140" x="320" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="U8" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Search &amp; View Channels" vertex="1">
+        <mxCell id="U8" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Search and View Channels" vertex="1">
           <mxGeometry height="40" width="160" x="50" y="900" as="geometry" />
         </mxCell>
         <mxCell id="U11" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Report Channel Content" vertex="1">
@@ -214,7 +214,7 @@
         <mxCell id="U10_1" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Add Rating" vertex="1">
           <mxGeometry height="40" width="140" x="290" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="U10" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Evaluate &amp; Manage Channels" vertex="1">
+        <mxCell id="U10" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Manage Channels" vertex="1">
           <mxGeometry height="40" width="160" x="50" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U10_1" edge="1" parent="System" source="U10_1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;" target="U10">
