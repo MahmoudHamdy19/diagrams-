@@ -1578,7 +1578,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD (Classes)" id="erd_classes">
-    <mxGraphModel dx="2700" dy="1466" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="428" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1887,22 +1887,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell_102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=21;fontFamily=Helvetica;" value="Categories" vertex="1">
-          <mxGeometry height="60" width="200" x="2559" y="1020" as="geometry" />
+          <mxGeometry height="60" width="200" x="2540" y="1125" as="geometry" />
         </mxCell>
         <mxCell id="cell_103" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=21;fontFamily=Helvetica;" value="category_id" vertex="1">
-          <mxGeometry height="40" width="160" x="2565" y="900" as="geometry" />
+          <mxGeometry height="40" width="160" x="2640" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="cell_104" edge="1" parent="1" source="cell_102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=21;fontStyle=1" target="cell_103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell_105" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=21;fontFamily=Helvetica;" value="category_name" vertex="1">
-          <mxGeometry height="40" width="160" x="2335" y="1079.995080756888" as="geometry" />
+          <mxGeometry height="40" width="160" x="2340" y="1039.995080756888" as="geometry" />
         </mxCell>
         <mxCell id="cell_106" edge="1" parent="1" source="cell_102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=21;fontStyle=1" target="cell_105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell_107" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontSize=21;fontFamily=Helvetica;" value="description" vertex="1">
-          <mxGeometry height="40" width="160" x="2390" y="960.004919243112" as="geometry" />
+          <mxGeometry height="40" width="160" x="2470" y="990.004919243112" as="geometry" />
         </mxCell>
         <mxCell id="cell_108" edge="1" parent="1" source="cell_102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=21;fontStyle=1" target="cell_107">
           <mxGeometry relative="1" as="geometry" />
@@ -2033,9 +2033,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell_151" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=21;labelBackgroundColor=none;fontColor=#000000;fontStyle=1;fontFamily=Helvetica;rotation=0;" value="contain" vertex="1">
-          <mxGeometry height="110" width="150" x="2580" y="1160" as="geometry" />
+          <mxGeometry height="110" width="150" x="2570" y="1310" as="geometry" />
         </mxCell>
-        <mxCell id="cell_152" edge="1" parent="1" source="cell_102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=21;fontStyle=1">
+        <mxCell id="cell_152" edge="1" parent="1" source="cell_102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=21;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cell_151">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2654.6875" y="1163.4375" as="targetPoint" />
           </mxGeometry>
