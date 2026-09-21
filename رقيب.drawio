@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Raqeeb Use Case" id="raqeeb_uc">
-    <mxGraphModel dx="3054" dy="2443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="2294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,16 +14,16 @@
           <mxGeometry height="40" width="140" x="330" y="106" as="geometry" />
         </mxCell>
         <mxCell id="U4_4" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Block Channel (Report)" vertex="1">
-          <mxGeometry height="40" width="140" x="300" y="726" as="geometry" />
+          <mxGeometry height="40" width="140" x="320" y="661" as="geometry" />
         </mxCell>
         <mxCell id="U4_1" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="View" vertex="1">
-          <mxGeometry height="40" width="140" x="310" y="656" as="geometry" />
+          <mxGeometry height="40" width="140" x="330" y="591" as="geometry" />
         </mxCell>
         <mxCell id="U5" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="View Statistics" vertex="1">
-          <mxGeometry height="40" width="160" x="40" y="756" as="geometry" />
+          <mxGeometry height="40" width="160" x="40" y="686" as="geometry" />
         </mxCell>
         <mxCell id="U4" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Manage Reports&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="160" x="30" y="631" as="geometry" />
+          <mxGeometry height="40" width="160" x="50" y="566" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U4_1" edge="1" parent="System" source="U4_1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;" target="U4">
           <mxGeometry relative="1" as="geometry" />
@@ -83,13 +83,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3_4" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Block Channel" vertex="1">
-          <mxGeometry height="40" width="140" x="300" y="596" as="geometry" />
+          <mxGeometry height="40" width="140" x="320" y="516" as="geometry" />
         </mxCell>
         <mxCell id="U3_3" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Edit Channel" vertex="1">
-          <mxGeometry height="40" width="140" x="310" y="536" as="geometry" />
+          <mxGeometry height="40" width="140" x="330" y="456" as="geometry" />
         </mxCell>
         <mxCell id="U3" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Manage Channels" vertex="1">
-          <mxGeometry height="40" width="160" x="40" y="486" as="geometry" />
+          <mxGeometry height="40" width="160" x="60" y="406" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U3_3" edge="1" parent="System" source="U3_3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;" target="U3">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3_2" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="Add Channel" vertex="1">
-          <mxGeometry height="40" width="140" x="320" y="476" as="geometry" />
+          <mxGeometry height="40" width="140" x="340" y="396" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U3_2" edge="1" parent="System" source="U3_2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;" target="U3">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3_1" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;" value="View Channel" vertex="1">
-          <mxGeometry height="40" width="140" x="300" y="416" as="geometry" />
+          <mxGeometry height="40" width="140" x="320" y="336" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U3_1" edge="1" parent="System" source="U3_1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;" target="U3">
           <mxGeometry relative="1" as="geometry" />
@@ -262,7 +262,7 @@
         <mxCell id="E_A1_U2" edge="1" parent="System" source="A1" style="endArrow=none;html=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="U2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_A1_U3" edge="1" parent="System" source="A1" style="endArrow=none;html=1;labelBackgroundColor=none;fontColor=default;" target="U3">
+        <mxCell id="E_A1_U3" edge="1" parent="System" source="A1" style="endArrow=none;html=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="U3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_A1_U4" edge="1" parent="System" source="A1" style="endArrow=none;html=1;labelBackgroundColor=none;fontColor=default;" target="U4">
