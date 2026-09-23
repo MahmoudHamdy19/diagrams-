@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net" pages="7">
   <diagram name="Raqeeb Use Case" id="raqeeb_uc">
-    <mxGraphModel dx="2750" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3118" dy="2533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="System" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;labelBackgroundColor=none;fontSize=14;fontStyle=1" value="Raqeeb System" vertex="1">
-          <mxGeometry height="1566" width="900" x="160" y="-176" as="geometry" />
+          <mxGeometry height="1770" width="900" x="160" y="-380" as="geometry" />
         </mxCell>
         <mxCell id="U1_1" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="View Users" vertex="1">
           <mxGeometry height="40" width="140" x="330" y="46" as="geometry" />
-        </mxCell>
-        <mxCell id="U1_2" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Block User" vertex="1">
-          <mxGeometry height="40" width="140" x="330" y="106" as="geometry" />
         </mxCell>
         <mxCell id="U4_4" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Block Channel" vertex="1">
           <mxGeometry height="40" width="140" x="320" y="661" as="geometry" />
@@ -44,12 +41,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U1_1_L" connectable="0" parent="E_EXT_U1_1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=15;fontStyle=1;fontFamily=Helvetica;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E_EXT_U1_2" edge="1" parent="System" source="U1_2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;fontStyle=1" target="U1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E_EXT_U1_2_L" connectable="0" parent="E_EXT_U1_2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=15;fontStyle=1;fontFamily=Helvetica;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U2" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Manage Categories" vertex="1">
@@ -122,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U13" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Verify Channel Suitability (AI)" vertex="1">
-          <mxGeometry height="40" width="160" x="40" y="1510" as="geometry" />
+          <mxGeometry height="40" width="160" x="50" y="1704" as="geometry" />
         </mxCell>
         <mxCell id="U6" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Manage Account" vertex="1">
           <mxGeometry height="40" width="160" x="40" y="770" as="geometry" />
@@ -170,7 +161,7 @@
           <mxGeometry height="40" width="140" x="270" y="1096" as="geometry" />
         </mxCell>
         <mxCell id="U10" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Manage Channels" vertex="1">
-          <mxGeometry height="40" width="160" x="50" y="1150" as="geometry" />
+          <mxGeometry height="40" width="160" x="30" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U10_1" edge="1" parent="System" source="U10_1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;fontStyle=1" target="U10">
           <mxGeometry relative="1" as="geometry" />
@@ -191,7 +182,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U12" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Manage Child&#39;s Allowed Lists" vertex="1">
-          <mxGeometry height="40" width="160" x="40" y="1420" as="geometry" />
+          <mxGeometry height="40" width="160" x="50" y="1614" as="geometry" />
         </mxCell>
         <mxCell id="E_INC_M2" edge="1" parent="System" source="U12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;fontStyle=1" target="U13">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +200,7 @@
           <mxGeometry height="60" width="30" x="-150" y="940" as="geometry" />
         </mxCell>
         <mxCell id="A5" parent="System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;labelBackgroundColor=none;" value="AI System" vertex="1">
-          <mxGeometry height="60" width="30" x="-120" y="1406" as="geometry" />
+          <mxGeometry height="60" width="30" x="-110" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="E_A1_U1" edge="1" parent="System" source="A1" style="endArrow=none;html=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" target="U1">
           <mxGeometry relative="1" as="geometry" />
@@ -582,6 +573,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_EXT_U19_3_L" connectable="0" parent="E_EXT_U19_3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=15;fontStyle=1;fontFamily=Helvetica;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1_2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;labelBackgroundColor=none;fontStyle=1" value="Block User" vertex="1">
+          <mxGeometry height="40" width="140" x="-80" y="-154" as="geometry" />
+        </mxCell>
+        <mxCell id="E_EXT_U1_2" edge="1" parent="1" source="U1_2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=open;endFill=0;labelBackgroundColor=none;fontColor=default;fontStyle=1" target="U1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_EXT_U1_2_L" connectable="0" parent="E_EXT_U1_2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=15;fontStyle=1;fontFamily=Helvetica;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
