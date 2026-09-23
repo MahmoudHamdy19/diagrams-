@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="diagram_1" name="Use Cases">
-    <mxGraphModel dx="2775" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry height="40" width="140" x="457" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="UC_EditProfile" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" value="Edit Profile" vertex="1">
-          <mxGeometry height="40" width="140" x="55" y="204" as="geometry" />
+          <mxGeometry height="40" width="140" x="55" y="189" as="geometry" />
         </mxCell>
         <mxCell id="UC_ManageChildren" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" value="Manage Children Profiles" vertex="1">
           <mxGeometry height="40" width="170" x="60" y="288" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry height="40" width="160" x="290" y="334" as="geometry" />
         </mxCell>
         <mxCell id="UC_VerifyAI" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" value="Verify Channel (AI)" vertex="1">
-          <mxGeometry height="40" width="140" x="92" y="383" as="geometry" />
+          <mxGeometry height="40" width="140" x="81" y="370" as="geometry" />
         </mxCell>
         <mxCell id="UC_AI_Results" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" value="View AI Results" vertex="1">
-          <mxGeometry height="40" width="140" x="320" y="414" as="geometry" />
+          <mxGeometry height="40" width="140" x="292" y="414" as="geometry" />
         </mxCell>
         <mxCell id="UC_SuggestChannel" parent="System" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" value="Suggest New Channel" vertex="1">
           <mxGeometry height="40" width="150" x="50" y="450" as="geometry" />
@@ -98,12 +98,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D_ManageA_L" connectable="0" parent="D_ManageA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_VerifyAI" edge="1" parent="System" source="UC_ManageAllowed" style="dashed=1;endArrow=open;endFill=0;html=1;" target="UC_VerifyAI">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_VerifyAI_L" connectable="0" parent="D_VerifyAI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D_AI_Res" edge="1" parent="System" source="UC_VerifyAI" style="dashed=1;endArrow=open;endFill=0;html=1;" target="UC_AI_Results">
