@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Class Diagram" id="class_diagram_erd">
-    <mxGraphModel dx="1350" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1776,7 +1776,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-181" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint x="-1" y="31" as="offset" />
+            <mxPoint x="-1" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-182" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;rotation=0;labelBackgroundColor=default;" value="Manage" vertex="1">
@@ -1868,7 +1868,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-196" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-195" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="1" vertex="1">
           <mxGeometry relative="1" x="-0.85" as="geometry">
-            <mxPoint x="-23" y="49" as="offset" />
+            <mxPoint x="-5" y="73" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-197" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-195" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
