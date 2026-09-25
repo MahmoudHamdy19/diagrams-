@@ -1226,7 +1226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Class Diagram" id="class_diagram_erd">
-    <mxGraphModel dx="540" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1888,7 +1888,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-181" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint x="-1" y="23" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-182" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;rotation=0;labelBackgroundColor=default;" value="Manage" vertex="1">
@@ -1980,7 +1980,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-196" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-195" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="1" vertex="1">
           <mxGeometry relative="1" x="-0.85" as="geometry">
-            <mxPoint x="-5" y="73" as="offset" />
+            <mxPoint x="-1" y="62" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-197" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-195" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
@@ -2107,7 +2107,7 @@
         </mxCell>
         <mxCell id="a-_y2QEusljBdU7D1B4c-19" connectable="0" parent="a-_y2QEusljBdU7D1B4c-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint x="-63" y="108" as="offset" />
+            <mxPoint x="-58" y="120" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a-_y2QEusljBdU7D1B4c-20" connectable="0" parent="a-_y2QEusljBdU7D1B4c-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;rotation=0;labelBackgroundColor=default;" value="verify" vertex="1">
