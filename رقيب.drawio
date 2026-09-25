@@ -1226,7 +1226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Class Diagram" id="class_diagram_erd">
-    <mxGraphModel dx="2363" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1276,7 +1276,7 @@
           <mxGeometry height="37" width="290" y="346" as="geometry" />
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-15" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;labelBackgroundColor=none;" value="Children" vertex="1">
-          <mxGeometry height="305" width="290" x="1626" y="1418" as="geometry" />
+          <mxGeometry height="305" width="290" x="1626" y="1417" as="geometry" />
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-16" parent="mVzki7Hr7hxCXjHFcv-y-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=0;labelBackgroundColor=default;" value="+ child_id : int PK" vertex="1">
           <mxGeometry height="26" width="290" y="26" as="geometry" />
@@ -1696,7 +1696,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-137" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint x="30" y="9" as="offset" />
+            <mxPoint x="27" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-138" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="block" vertex="1">
@@ -1955,7 +1955,7 @@
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-193" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-191" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=default;" value="m" vertex="1">
           <mxGeometry relative="1" x="0.85" as="geometry">
-            <mxPoint x="97" y="-4" as="offset" />
+            <mxPoint x="93" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mVzki7Hr7hxCXjHFcv-y-194" connectable="0" parent="mVzki7Hr7hxCXjHFcv-y-191" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;rotation=0;labelBackgroundColor=default;" value="Review" vertex="1">
